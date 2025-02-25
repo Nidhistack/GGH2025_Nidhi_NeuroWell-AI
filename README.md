@@ -1,1 +1,2 @@
-# GGH2025_Nidhi_AuraHealth-AI
+# NeuroWell AI- An application supporting neurological health and therapy
+
